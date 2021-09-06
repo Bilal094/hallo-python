@@ -10,4 +10,4 @@ print("""Hello wereld van…
 """)
 
 
-print("# Bilal Achrifi 99066318")
+# Bilal Achrifi 99066318 (Ik heb in de screenshot ook print gebruikt voor de comment)
